@@ -1,1 +1,1 @@
-DjangoBeginerTutorial
+DjangoTutorial
